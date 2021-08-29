@@ -13,7 +13,10 @@
   - [ ] Create movements on the 3D model
 
 ### Requirements:
-* cmake 3.16
+* OS: ubuntu 20 based distro
+* System Software
+  * cmake 3.16
+  * xorg-dev
 
 ### To Build the project:
 * at the root folder, run
