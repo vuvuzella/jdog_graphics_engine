@@ -19,8 +19,9 @@
   * xorg-dev
 
 ### To Build the project:
+* Checkout the repository
+  - `$ git clone https://github.com/vuvuzella/jdog_graphics_engine --recursive`
 * at the root folder, run
-  - `$ mkdir build`
   - `$ cmake -S ./src -B ./build`
   - `$ cd ./build`
   - `$ make`
